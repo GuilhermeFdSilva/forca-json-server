@@ -1,14 +1,17 @@
 {
   "palavras" : [
     {
+      "id" : 0,
       "palavra" : "banana",
       "tema" : "fruta"
     },
     {
+      "id" : 1,
       "palavra" : "maça",
       "tema" : "fruta"
     },
     {
+      "id" : 2,
       "palavra" : "pera",
       "tema" : "fruta"
     }
