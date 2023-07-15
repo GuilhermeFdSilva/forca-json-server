@@ -1,19 +1,103 @@
 {
-  "palavras" : [
-    {
-      "id" : 0,
-      "palavra" : "banana",
-      "tema" : "fruta"
-    },
-    {
-      "id" : 1,
-      "palavra" : "maça",
-      "tema" : "fruta"
-    },
-    {
-      "id" : 2,
-      "palavra" : "pera",
-      "tema" : "fruta"
-    }
-  ]
+	"palavras": [{
+			"id": 1,
+			"palavra": "cachorro",
+			"tema": "animal"
+		},
+		{
+			"id": 2,
+			"palavra": "gato",
+			"tema": "animal"
+		},
+		{
+			"id": 3,
+			"palavra": "pássaro",
+			"tema": "animal"
+		},
+		{
+			"id": 4,
+			"palavra": "carro",
+			"tema": "veículo"
+		},
+		{
+			"id": 5,
+			"palavra": "moto",
+			"tema": "veículo"
+		},
+		{
+			"id": 6,
+			"palavra": "avião",
+			"tema": "veículo"
+		},
+		{
+			"id": 7,
+			"palavra": "banana",
+			"tema": "fruta"
+		},
+		{
+			"id": 8,
+			"palavra": "maçã",
+			"tema": "fruta"
+		},
+		{
+			"id": 9,
+			"palavra": "uva",
+			"tema": "fruta"
+		},
+		{
+			"id": 10,
+			"palavra": "leão",
+			"tema": "animal"
+		},
+		{
+			"id": 11,
+			"palavra": "elefante",
+			"tema": "animal"
+		},
+		{
+			"id": 12,
+			"palavra": "cobra",
+			"tema": "animal"
+		},
+		{
+			"id": 13,
+			"palavra": "barco",
+			"tema": "veículo"
+		},
+		{
+			"id": 14,
+			"palavra": "bicicleta",
+			"tema": "veículo"
+		},
+		{
+			"id": 15,
+			"palavra": "ônibus",
+			"tema": "veículo"
+		},
+		{
+			"id": 16,
+			"palavra": "laranja",
+			"tema": "fruta"
+		},
+		{
+			"id": 17,
+			"palavra": "abacaxi",
+			"tema": "fruta"
+		},
+		{
+			"id": 18,
+			"palavra": "melancia",
+			"tema": "fruta"
+		},
+		{
+			"id": 19,
+			"palavra": "zebra",
+			"tema": "animal"
+		},
+		{
+			"id": 20,
+			"palavra": "raposa",
+			"tema": "animal"
+		}
+	]
 }
