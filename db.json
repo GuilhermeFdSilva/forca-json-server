@@ -1,0 +1,16 @@
+{
+  "palavras" : [
+    0 : {
+      "palavra" : "banana",
+      "tema" : "fruta"
+    },
+    1 : {
+      "palavra" : "maça",
+      "tema" : "fruta"
+    },
+    2 : {
+      "palavra" : "pera",
+      "tema" : "fruta"
+    }
+  ]
+}
