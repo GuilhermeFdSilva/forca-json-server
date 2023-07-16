@@ -98,6 +98,291 @@
 			"id": 20,
 			"palavra": "raposa",
 			"tema": "animal"
+		},
+		{
+			"id": 21,
+			"palavra": "trem",
+			"tema": "veículo"
+		},
+		{
+			"id": 22,
+			"palavra": "helicóptero",
+			"tema": "veículo"
+		},
+		{
+			"id": 23,
+			"palavra": "patinete",
+			"tema": "veículo"
+		},
+		{
+			"id": 24,
+			"palavra": "morango",
+			"tema": "fruta"
+		},
+		{
+			"id": 25,
+			"palavra": "manga",
+			"tema": "fruta"
+		},
+		{
+			"id": 26,
+			"palavra": "kiwi",
+			"tema": "fruta"
+		},
+		{
+			"id": 27,
+			"palavra": "urso",
+			"tema": "animal"
+		},
+		{
+			"id": 28,
+			"palavra": "pinguim",
+			"tema": "animal"
+		},
+		{
+			"id": 29,
+			"palavra": "girafa",
+			"tema": "animal"
+		},
+		{
+			"id": 30,
+			"palavra": "camelo",
+			"tema": "animal"
+		},
+		{
+			"id": 31,
+			"palavra": "camionete",
+			"tema": "veículo"
+		},
+		{
+			"id": 32,
+			"palavra": "trator",
+			"tema": "veículo"
+		},
+		{
+			"id": 33,
+			"palavra": "submarino",
+			"tema": "veículo"
+		},
+		{
+			"id": 34,
+			"palavra": "cereja",
+			"tema": "fruta"
+		},
+		{
+			"id": 35,
+			"palavra": "limão",
+			"tema": "fruta"
+		},
+		{
+			"id": 36,
+			"palavra": "coco",
+			"tema": "fruta"
+		},
+		{
+			"id": 37,
+			"palavra": "macaco",
+			"tema": "animal"
+		},
+		{
+			"id": 38,
+			"palavra": "cavalo",
+			"tema": "animal"
+		},
+		{
+			"id": 39,
+			"palavra": "vaca",
+			"tema": "animal"
+		},
+		{
+			"id": 40,
+			"palavra": "porco",
+			"tema": "animal"
+		},
+		{
+			"id": 41,
+			"palavra": "motoqueiro fantasma",
+			"tema": "filme"
+		},
+		{
+			"id": 42,
+			"palavra": "matrix",
+			"tema": "filme"
+		},
+		{
+			"id": 43,
+			"palavra": "titanic",
+			"tema": "filme"
+		},
+		{
+			"id": 44,
+			"palavra": "vingadores",
+			"tema": "filme"
+		},
+		{
+			"id": 45,
+			"palavra": "harry potter",
+			"tema": "filme"
+		},
+		{
+			"id": 46,
+			"palavra": "star wars",
+			"tema": "filme"
+		},
+		{
+			"id": 47,
+			"palavra": "batman",
+			"tema": "filme"
+		},
+		{
+			"id": 48,
+			"palavra": "frozen",
+			"tema": "filme"
+		},
+		{
+			"id": 49,
+			"palavra": "shrek",
+			"tema": "filme"
+		},
+		{
+			"id": 50,
+			"palavra": "toy story",
+			"tema": "filme"
+		},
+		{
+			"id": 51,
+			"palavra": "futebol",
+			"tema": "esporte"
+		},
+		{
+			"id": 52,
+			"palavra": "basquete",
+			"tema": "esporte"
+		},
+		{
+			"id": 53,
+			"palavra": "vôlei",
+			"tema": "esporte"
+		},
+		{
+			"id": 54,
+			"palavra": "tênis",
+			"tema": "esporte"
+		},
+		{
+			"id": 55,
+			"palavra": "natação",
+			"tema": "esporte"
+		},
+		{
+			"id": 56,
+			"palavra": "ciclismo",
+			"tema": "esporte"
+		},
+		{
+			"id": 57,
+			"palavra": "atletismo",
+			"tema": "esporte"
+		},
+		{
+			"id": 58,
+			"palavra": "xadrez",
+			"tema": "esporte"
+		},
+		{
+			"id": 59,
+			"palavra": "golfe",
+			"tema": "esporte"
+		},
+		{
+			"id": 60,
+			"palavra": "surf",
+			"tema": "esporte"
+		},
+		{
+			"id": 61,
+			"palavra": "brasil",
+			"tema": "país"
+		},
+		{
+			"id": 62,
+			"palavra": "china",
+			"tema": "país"
+		},
+		{
+			"id": 63,
+			"palavra": "frança",
+			"tema": "país"
+		},
+		{
+			"id": 64,
+			"palavra": "alemanha",
+			"tema": "país"
+		},
+		{
+			"id": 65,
+			"palavra": "japão",
+			"tema": "país"
+		},
+		{
+			"id": 66,
+			"palavra": "estados unidos",
+			"tema": "país"
+		},
+		{
+			"id": 67,
+			"palavra": "canadá",
+			"tema": "país"
+		},
+		{
+			"id": 68,
+			"palavra": "argentina",
+			"tema": "país"
+		},
+		{
+			"id": 69,
+			"palavra": "egito",
+			"tema": "país"
+		},
+		{
+			"id": 70,
+			"palavra": "austrália",
+			"tema": "país"
+		},
+		{
+			"id": 71,
+			"palavra": "pizza",
+			"tema": "comida"
+		},
+		{
+			"id": 72,
+			"palavra": "hambúrguer",
+			"tema": "comida"
+		},
+		{
+			"id": 73,
+			"palavra": "sushi",
+			"tema": "comida"
+		},
+		{
+			"id": 74,
+			"palavra": "feijoada",
+			"tema": "comida"
+		},
+		{
+			"id": 75,
+			"palavra": "lasanha",
+			"tema": "comida"
+		},
+		{
+			"id": 76,
+			"palavra": "salada",
+			"tema": "comida"
+		},
+		{
+			"id": 77,
+			"palavra": "sorvete",
+			"tema": "comida"
 		}
 	]
 }
