@@ -383,6 +383,121 @@
 			"id": 77,
 			"palavra": "sorvete",
 			"tema": "comida"
+		},
+		{
+			"id": 78,
+			"palavra": "bolo",
+			"tema": "comida"
+		},
+		{
+			"id": 79,
+			"palavra": "pudim",
+			"tema": "comida"
+		},
+		{
+			"id": 80,
+			"palavra": "brigadeiro",
+			"tema": "comida"
+		},
+		{
+			"id": 81,
+			"palavra": "vermelho",
+			"tema": "cor"
+		},
+		{
+			"id": 82,
+			"palavra": "azul",
+			"tema": "cor"
+		},
+		{
+			"id": 83,
+			"palavra": "verde",
+			"tema": "cor"
+		},
+		{
+			"id": 84,
+			"palavra": "amarelo",
+			"tema": "cor"
+		},
+		{
+			"id": 85,
+			"palavra": "rosa",
+			"tema": "cor"
+		},
+		{
+			"id": 86,
+			"palavra": "roxo",
+			"tema": "cor"
+		},
+		{
+			"id": 87,
+			"palavra": "laranja",
+			"tema": "cor"
+		},
+		{
+			"id": 88,
+			"palavra": "marrom",
+			"tema": "cor"
+		},
+		{
+			"id": 89,
+			"palavra": "preto",
+			"tema": "cor"
+		},
+		{
+			"id": 90,
+			"palavra": "branco",
+			"tema": "cor"
+		},
+		{
+			"id": 91,
+			"palavra": "rock",
+			"tema": "música"
+		},
+		{
+			"id": 92,
+			"palavra": "samba",
+			"tema": "música"
+		},
+		{
+			"id": 93,
+			"palavra": "rap",
+			"tema": "música"
+		},
+		{
+			"id": 94,
+			"palavra": "pop",
+			"tema": "música"
+		},
+		{
+			"id": 95,
+			"palavra": "jazz",
+			"tema": "música"
+		},
+		{
+			"id": 96,
+			"palavra": "reggae",
+			"tema": "música"
+		},
+		{
+			"id": 97,
+			"palavra": "funk",
+			"tema": "música"
+		},
+		{
+			"id": 98,
+			"palavra": "blues",
+			"tema": "música"
+		},
+		{
+			"id": 99,
+			"palavra": "country",
+			"tema": "música"
+		},
+		{
+			"id": 100,
+			"palavra": "clássica",
+			"tema": "música"
 		}
 	]
 }
