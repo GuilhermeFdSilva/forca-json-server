@@ -1,153 +1,154 @@
 {
-	"palavras": [{
-			"id": 1,
-			"palavra": "cachorro",
-			"tema": "animal"
-		},
-		{
-			"id": 2,
-			"palavra": "gato",
-			"tema": "animal"
-		},
-		{
-			"id": 3,
-			"palavra": "pássaro",
-			"tema": "animal"
-		},
-		{
-			"id": 4,
-			"palavra": "carro",
-			"tema": "veículo"
-		},
-		{
-			"id": 5,
-			"palavra": "moto",
-			"tema": "veículo"
-		},
-		{
-			"id": 6,
-			"palavra": "avião",
-			"tema": "veículo"
-		},
-		{
-			"id": 7,
-			"palavra": "banana",
-			"tema": "fruta"
-		},
-		{
-			"id": 8,
-			"palavra": "maçã",
-			"tema": "fruta"
-		},
-		{
-	    		"id": 9,
-    			"palavra": "Transformers",
-    			"tema": "filme"
-		},
-		{
-			"id": 10,
-			"palavra": "leão",
-			"tema": "animal"
-		},
-		{
-			"id": 11,
-			"palavra": "elefante",
-			"tema": "animal"
-		},
-		{
-			"id": 12,
-			"palavra": "cobra",
-			"tema": "animal"
-		},
-		{
-			"id": 13,
-    			"palavra": "Flash",
-    			"tema": "filme"
-		},
-		{
-			"id": 14,
-			"palavra": "Titanic",
-			"tema": "filme"
-		},
-		{
-			"id": 15,
-			"palavra": "ônibus",
-			"tema": "veículo"
-		},
-		{
-			"id": 16,
-			"palavra": "laranja",
-			"tema": "fruta"
-		},
-		{
-		    	"id": 17,
-    			"palavra": "Openheimmer",
-    			"tema": "cientista"
-		},
-		{
-			"id": 18,
-			"palavra": "melancia",
-			"tema": "fruta"
-		},
-		{
-			"id": 19,
-			"palavra": "zebra",
-			"tema": "animal"
-		},
-		{
-			"id": 20,
-			"palavra": "raposa",
-			"tema": "animal"
-		},
-		{
-			"id": 21,
-			"palavra": "trem",
-			"tema": "veículo"
-		},
-		{
-			"id": 22,
-			"palavra": "helicóptero",
-			"tema": "veículo"
-		},
-		{
-			"id": 23,
-    			"palavra": "Avatar",
-    			"tema": "filme"
-		},
-		{
-			"id": 24,
-			"palavra": "morango",
-			"tema": "fruta"
-		},
-		{    
-			"id": 25,
-    			"palavra": "Barbie",
-    			"tema": "brinquedo"
-		},
-		{
-			"id": 26,
-    			"palavra": "Vingadires",
-    			"tema": "filme"
-		},
-		{
-			"id": 27,
-			"palavra": "urso",
-			"tema": "animal"
-		},
-		{
-			"id": 28,
-			"palavra": "pinguim",
-			"tema": "animal"
-		},
-		{
-			"id": 29,
-			"palavra": "girafa",
-			"tema": "animal"
-		},
-		{
-			"id": 30,
-			"palavra": "camelo",
-			"tema": "animal"
-		}
-	]
+  "palavras": [
+    {
+      "id": 1,
+      "palavra": "cachorro",
+      "tema": "animal"
+    },
+    {
+      "id": 2,
+      "palavra": "gato",
+      "tema": "animal"
+    },
+    {
+      "id": 3,
+      "palavra": "pássaro",
+      "tema": "animal"
+    },
+    {
+      "id": 4,
+      "palavra": "carro",
+      "tema": "veículo"
+    },
+    {
+      "id": 5,
+      "palavra": "moto",
+      "tema": "veículo"
+    },
+    {
+      "id": 6,
+      "palavra": "avião",
+      "tema": "veículo"
+    },
+    {
+      "id": 7,
+      "palavra": "banana",
+      "tema": "fruta"
+    },
+    {
+      "id": 8,
+      "palavra": "maçã",
+      "tema": "fruta"
+    },
+    {
+      "id": 9,
+      "palavra": "Transformers",
+      "tema": "filme"
+    },
+    {
+      "id": 10,
+      "palavra": "leão",
+      "tema": "animal"
+    },
+    {
+      "id": 11,
+      "palavra": "elefante",
+      "tema": "animal"
+    },
+    {
+      "id": 12,
+      "palavra": "cobra",
+      "tema": "animal"
+    },
+    {
+      "id": 13,
+      "palavra": "Flash",
+      "tema": "filme"
+    },
+    {
+      "id": 14,
+      "palavra": "Titanic",
+      "tema": "filme"
+    },
+    {
+      "id": 15,
+      "palavra": "ônibus",
+      "tema": "veículo"
+    },
+    {
+      "id": 16,
+      "palavra": "laranja",
+      "tema": "fruta"
+    },
+    {
+      "id": 17,
+      "palavra": "Openheimmer",
+      "tema": "cientista"
+    },
+    {
+      "id": 18,
+      "palavra": "melancia",
+      "tema": "fruta"
+    },
+    {
+      "id": 19,
+      "palavra": "zebra",
+      "tema": "animal"
+    },
+    {
+      "id": 20,
+      "palavra": "raposa",
+      "tema": "animal"
+    },
+    {
+      "id": 21,
+      "palavra": "trem",
+      "tema": "veículo"
+    },
+    {
+      "id": 22,
+      "palavra": "helicóptero",
+      "tema": "veículo"
+    },
+    {
+      "id": 23,
+      "palavra": "Avatar",
+      "tema": "filme"
+    },
+    {
+      "id": 24,
+      "palavra": "morango",
+      "tema": "fruta"
+    },
+    {
+      "id": 25,
+      "palavra": "Barbie",
+      "tema": "brinquedo"
+    },
+    {
+      "id": 26,
+      "palavra": "Vingadires",
+      "tema": "filme"
+    },
+    {
+      "id": 27,
+      "palavra": "urso",
+      "tema": "animal"
+    },
+    {
+      "id": 28,
+      "palavra": "pinguim",
+      "tema": "animal"
+    },
+    {
+      "id": 29,
+      "palavra": "girafa",
+      "tema": "animal"
+    },
+    {
+      "id": 30,
+      "palavra": "Harry Potter",
+      "tema": "filme"
+    }
+  ]
 }
