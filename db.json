@@ -40,9 +40,9 @@
 			"tema": "fruta"
 		},
 		{
-			"id": 9,
-			"palavra": "uva",
-			"tema": "fruta"
+	    		"id": 9,
+    			"palavra": "Transformers",
+    			"tema": "filme"
 		},
 		{
 			"id": 10,
@@ -61,13 +61,13 @@
 		},
 		{
 			"id": 13,
-			"palavra": "barco",
-			"tema": "veículo"
+    			"palavra": "Flash",
+    			"tema": "filme"
 		},
 		{
 			"id": 14,
-			"palavra": "bicicleta",
-			"tema": "veículo"
+			"palavra": "Titanic",
+			"tema": "filme"
 		},
 		{
 			"id": 15,
@@ -80,9 +80,9 @@
 			"tema": "fruta"
 		},
 		{
-			"id": 17,
-			"palavra": "abacaxi",
-			"tema": "fruta"
+		    	"id": 17,
+    			"palavra": "Openheimmer",
+    			"tema": "cientista"
 		},
 		{
 			"id": 18,
@@ -111,23 +111,23 @@
 		},
 		{
 			"id": 23,
-			"palavra": "patinete",
-			"tema": "veículo"
+    			"palavra": "Avatar",
+    			"tema": "filme"
 		},
 		{
 			"id": 24,
 			"palavra": "morango",
 			"tema": "fruta"
 		},
-		{
+		{    
 			"id": 25,
-			"palavra": "manga",
-			"tema": "fruta"
+    			"palavra": "Barbie",
+    			"tema": "brinquedo"
 		},
 		{
 			"id": 26,
-			"palavra": "kiwi",
-			"tema": "fruta"
+    			"palavra": "Vingadires",
+    			"tema": "filme"
 		},
 		{
 			"id": 27,
