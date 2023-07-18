@@ -2,153 +2,153 @@
   "palavras": [
     {
       "id": 1,
-      "palavra": "cachorro",
-      "tema": "animal"
+      "palavra": "Cachorro",
+      "tema": "Animal"
     },
     {
       "id": 2,
-      "palavra": "gato",
-      "tema": "animal"
+      "palavra": "Gato",
+      "tema": "Animal"
     },
     {
       "id": 3,
-      "palavra": "pássaro",
-      "tema": "animal"
+      "palavra": "Pássaro",
+      "tema": "Animal"
     },
     {
       "id": 4,
-      "palavra": "carro",
-      "tema": "veículo"
+      "palavra": "Carro",
+      "tema": "Veículo"
     },
     {
       "id": 5,
-      "palavra": "moto",
-      "tema": "veículo"
+      "palavra": "Moto",
+      "tema": "Veículo"
     },
     {
       "id": 6,
-      "palavra": "avião",
-      "tema": "veículo"
+      "palavra": "Avião",
+      "tema": "Veículo"
     },
     {
       "id": 7,
-      "palavra": "banana",
-      "tema": "fruta"
+      "palavra": "Banana",
+      "tema": "Fruta"
     },
     {
       "id": 8,
-      "palavra": "maçã",
-      "tema": "fruta"
+      "palavra": "Maçã",
+      "tema": "Fruta"
     },
     {
       "id": 9,
       "palavra": "Transformers",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 10,
-      "palavra": "leão",
-      "tema": "animal"
+      "palavra": "Leão",
+      "tema": "Animal"
     },
     {
       "id": 11,
-      "palavra": "elefante",
-      "tema": "animal"
+      "palavra": "Elefante",
+      "tema": "Animal"
     },
     {
       "id": 12,
-      "palavra": "cobra",
-      "tema": "animal"
+      "palavra": "Cobra",
+      "tema": "Animal"
     },
     {
       "id": 13,
       "palavra": "Flash",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 14,
       "palavra": "Titanic",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 15,
-      "palavra": "ônibus",
-      "tema": "veículo"
+      "palavra": "Ônibus",
+      "tema": "Veículo"
     },
     {
       "id": 16,
-      "palavra": "laranja",
-      "tema": "fruta"
+      "palavra": "Laranja",
+      "tema": "Fruta"
     },
     {
       "id": 17,
       "palavra": "Openheimmer",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 18,
-      "palavra": "melancia",
-      "tema": "fruta"
+      "palavra": "Melancia",
+      "tema": "Fruta"
     },
     {
       "id": 19,
-      "palavra": "zebra",
-      "tema": "animal"
+      "palavra": "Zebra",
+      "tema": "Animal"
     },
     {
       "id": 20,
-      "palavra": "raposa",
-      "tema": "animal"
+      "palavra": "Raposa",
+      "tema": "Animal"
     },
     {
       "id": 21,
-      "palavra": "trem",
-      "tema": "veículo"
+      "palavra": "Trem",
+      "tema": "Veículo"
     },
     {
       "id": 22,
-      "palavra": "helicóptero",
-      "tema": "veículo"
+      "palavra": "Helicóptero",
+      "tema": "Veículo"
     },
     {
       "id": 23,
       "palavra": "Avatar",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 24,
-      "palavra": "morango",
-      "tema": "fruta"
+      "palavra": "Morango",
+      "tema": "Fruta"
     },
     {
       "id": 25,
       "palavra": "Barbie",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 26,
       "palavra": "Vingadores",
-      "tema": "filme"
+      "tema": "Filme"
     },
     {
       "id": 27,
-      "palavra": "urso",
-      "tema": "animal"
+      "palavra": "Urso",
+      "tema": "Animal"
     },
     {
       "id": 28,
-      "palavra": "pinguim",
-      "tema": "animal"
+      "palavra": "Pinguim",
+      "tema": "Animal"
     },
     {
       "id": 29,
-      "palavra": "girafa",
-      "tema": "animal"
+      "palavra": "Girafa",
+      "tema": "Animal"
     },
     {
       "id": 30,
       "palavra": "Harry Potter",
-      "tema": "filme"
+      "tema": "Filme"
     }
   ]
 }
