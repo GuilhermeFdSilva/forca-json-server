@@ -1,166 +1,368 @@
 {
-  "palavras": [
+  "filmes": [
     {
-      "id": 1,
-      "palavra": "Cachorro",
-      "tema": "Animal"
-    },
-    {
-      "id": 2,
-      "palavra": "Gato",
-      "tema": "Animal"
-    },
-    {
-      "id": 3,
-      "palavra": "Pássaro",
-      "tema": "Animal"
-    },
-    {
-      "id": 4,
-      "palavra": "Carro",
-      "tema": "Veículo"
-    },
-    {
-      "id": 5,
-      "palavra": "Moto",
-      "tema": "Veículo"
-    },
-    {
-      "id": 6,
-      "palavra": "Avião",
-      "tema": "Veículo"
-    },
-    {
-      "id": 7,
-      "palavra": "Banana",
-      "tema": "Fruta"
-    },
-    {
-      "id": 8,
-      "palavra": "Maçã",
-      "tema": "Fruta"
-    },
-    {
-      "id": 9,
-      "palavra": "Transformers",
+      "palavra": "Matrix",
       "tema": "Filme"
     },
     {
-      "id": 10,
-      "palavra": "Leão",
-      "tema": "Animal"
-    },
-    {
-      "id": 11,
-      "palavra": "Elefante",
-      "tema": "Animal"
-    },
-    {
-      "id": 12,
-      "palavra": "Cobra",
-      "tema": "Animal"
-    },
-    {
-      "id": 13,
-      "palavra": "Flash",
-      "tema": "Filme"
-    },
-    {
-      "id": 14,
-      "palavra": "Titanic",
-      "tema": "Filme"
-    },
-    {
-      "id": 15,
-      "palavra": "Ônibus",
-      "tema": "Veículo"
-    },
-    {
-      "id": 16,
-      "palavra": "Laranja",
-      "tema": "Fruta"
-    },
-    {
-      "id": 17,
-      "palavra": "Openheimmer",
-      "tema": "Filme"
-    },
-    {
-      "id": 18,
-      "palavra": "Melancia",
-      "tema": "Fruta"
-    },
-    {
-      "id": 19,
-      "palavra": "Zebra",
-      "tema": "Animal"
-    },
-    {
-      "id": 20,
-      "palavra": "Raposa",
-      "tema": "Animal"
-    },
-    {
-      "id": 21,
-      "palavra": "Trem",
-      "tema": "Veículo"
-    },
-    {
-      "id": 22,
-      "palavra": "Helicóptero",
-      "tema": "Veículo"
-    },
-    {
-      "id": 23,
       "palavra": "Avatar",
       "tema": "Filme"
     },
     {
-      "id": 24,
-      "palavra": "Morango",
-      "tema": "Fruta"
-    },
-    {
-      "id": 25,
-      "palavra": "Barbie",
+      "palavra": "A Origem",
       "tema": "Filme"
     },
     {
-      "id": 26,
+      "palavra": "Jurassic Park",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Star Wars",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Star Trek",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Harry Potter",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Jogos Vorazes",
+      "tema": "Filme"
+    },
+    {
       "palavra": "Vingadores",
       "tema": "Filme"
     },
     {
-      "id": 27,
-      "palavra": "Urso",
+      "palavra": "Homem de Ferro",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Homem Aranha",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Batman",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Superman",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Mulher Maravilha",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Shrek",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Toy Story",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "WALL E",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "O Rei Leão",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Frozen",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Oppenheimer",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "O Senhor dos Anéis",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "O Hobbit",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Nárnia",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Coraline",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Viagem de Chihiro",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Castelo Animado",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Tron",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Blade Runner",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Exterminador do Futuro",
+      "tema": "Filme"
+    },
+    {
+      "palavra": "Transformers",
+      "tema": "Filme"
+    }
+  ],
+    "animais": [
+    {
+      "palavra": "Cachorro",
       "tema": "Animal"
     },
     {
-      "id": 28,
-      "palavra": "Pinguim",
+      "palavra": "Gato",
       "tema": "Animal"
     },
     {
-      "id": 29,
+      "palavra": "Leão",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Tigre",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Elefante",
+      "tema": "Animal"
+    },
+    {
       "palavra": "Girafa",
       "tema": "Animal"
     },
     {
-      "id": 30,
-      "palavra": "Harry Potter",
-      "tema": "Filme"
-    }
-  ],
-  "teste": [
-    {
-      "id": 1,
-      "palavra": "batata",
-      "tema": " tema"
+      "palavra": "Zebra",
+      "tema": "Animal"
     },
     {
-      "id": 1,
-      "palavra": "batata",
-      "tema": " tema"
+      "palavra": "Macaco",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Urso",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Coelho",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Raposa",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Lobo",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Cavalo",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Vaca",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Porco",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Ovelha",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Galinha",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Pato",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Pinguim",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Baleia",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Tubarão",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Golfinho",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Peixe",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Tartaruga",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Cobra",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Lagarto",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Crocodilo",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Águia",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Papagaio",
+      "tema": "Animal"
+    },
+    {
+      "palavra": "Formiga",
+      "tema": "Animal"
+    }
+  ],
+  "jogos": [
+    {
+      "palavra": "Minecraft",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Super Mario",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Sonic",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Tetris",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Pac Man",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "The Sims",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "GTA",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "FIFA",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Call of Duty",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Fortnite",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Among Us",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Candy Crush",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Angry Birds",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Pokémon",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Zelda",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Resident Evil",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "God of War",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Final Fantasy",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Street Fighter",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Mortal Kombat",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Crash",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Tomb Raider",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Counter Strike",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Undertale",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Stardew Valley",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Hollow Knight",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Journey",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Limbo",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Cuphead",
+      "tema": "Jogo"
+    },
+    {
+      "palavra": "Clash of Clans",
+      "tema": "Jogo"
     }
   ]
 }
