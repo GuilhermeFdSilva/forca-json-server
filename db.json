@@ -150,13 +150,17 @@
       "palavra": "Harry Potter",
       "tema": "Filme"
     }
-  ]
-}
-{
-  "teste" : [
+  ],
+  "teste": [
     {
-      "id" : 1,
-      "teste" : "abc"
+      "id": 1,
+      "palavra": "batata",
+      "tema": " tema"
+    },
+    {
+      "id": 1,
+      "palavra": "batata",
+      "tema": " tema"
     }
   ]
 }
