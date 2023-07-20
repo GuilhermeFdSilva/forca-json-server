@@ -82,7 +82,7 @@
     },
     {
       "id": 17,
-      "palavra": "WALL E",
+      "palavra": "O Senhor dos Anéis",
       "tema": "Filme"
     },
     {
@@ -92,62 +92,12 @@
     },
     {
       "id": 19,
-      "palavra": "Frozen",
+      "palavra": "O Hobbit",
       "tema": "Filme"
     },
     {
       "id": 20,
       "palavra": "Oppenheimer",
-      "tema": "Filme"
-    },
-    {
-      "id": 21,
-      "palavra": "O Senhor dos Anéis",
-      "tema": "Filme"
-    },
-    {
-      "id": 22,
-      "palavra": "O Hobbit",
-      "tema": "Filme"
-    },
-    {
-      "id": 23,
-      "palavra": "Nárnia",
-      "tema": "Filme"
-    },
-    {
-      "id": 24,
-      "palavra": "Coraline",
-      "tema": "Filme"
-    },
-    {
-      "id": 25,
-      "palavra": "Viagem de Chihiro",
-      "tema": "Filme"
-    },
-    {
-      "id": 26,
-      "palavra": "Castelo Animado",
-      "tema": "Filme"
-    },
-    {
-      "id": 27,
-      "palavra": "Tron",
-      "tema": "Filme"
-    },
-    {
-      "id": 28,
-      "palavra": "Blade Runner",
-      "tema": "Filme"
-    },
-    {
-      "id": 29,
-      "palavra": "Exterminador do Futuro",
-      "tema": "Filme"
-    },
-    {
-      "id": 30,
-      "palavra": "Transformers",
       "tema": "Filme"
     }
   ],
@@ -251,56 +201,6 @@
       "id": 20,
       "palavra": "Baleia",
       "tema": "Animal"
-    },
-    {
-      "id": 21,
-      "palavra": "Tubarão",
-      "tema": "Animal"
-    },
-    {
-      "id": 22,
-      "palavra": "Golfinho",
-      "tema": "Animal"
-    },
-    {
-      "id": 23,
-      "palavra": "Peixe",
-      "tema": "Animal"
-    },
-    {
-      "id": 24,
-      "palavra": "Tartaruga",
-      "tema": "Animal"
-    },
-    {
-      "id": 25,
-      "palavra": "Cobra",
-      "tema": "Animal"
-    },
-    {
-      "id": 26,
-      "palavra": "Lagarto",
-      "tema": "Animal"
-    },
-    {
-      "id": 27,
-      "palavra": "Crocodilo",
-      "tema": "Animal"
-    },
-    {
-      "id": 28,
-      "palavra": "Águia",
-      "tema": "Animal"
-    },
-    {
-      "id": 29,
-      "palavra": "Papagaio",
-      "tema": "Animal"
-    },
-    {
-      "id": 30,
-      "palavra": "Formiga",
-      "tema": "Animal"
     }
   ],
   "jogos": [
@@ -402,56 +302,6 @@
     {
       "id": 20,
       "palavra": "Mortal Kombat",
-      "tema": "Jogo"
-    },
-    {
-      "id": 21,
-      "palavra": "Crash",
-      "tema": "Jogo"
-    },
-    {
-      "id": 22,
-      "palavra": "Tomb Raider",
-      "tema": "Jogo"
-    },
-    {
-      "id": 23,
-      "palavra": "Counter Strike",
-      "tema": "Jogo"
-    },
-    {
-      "id": 24,
-      "palavra": "Undertale",
-      "tema": "Jogo"
-    },
-    {
-      "id": 25,
-      "palavra": "Stardew Valley",
-      "tema": "Jogo"
-    },
-    {
-      "id": 26,
-      "palavra": "Hollow Knight",
-      "tema": "Jogo"
-    },
-    {
-      "id": 27,
-      "palavra": "Journey",
-      "tema": "Jogo"
-    },
-    {
-      "id": 28,
-      "palavra": "Limbo",
-      "tema": "Jogo"
-    },
-    {
-      "id": 29,
-      "palavra": "Cuphead",
-      "tema": "Jogo"
-    },
-    {
-      "id": 30,
-      "palavra": "Clash of Clans",
       "tema": "Jogo"
     }
   ],
@@ -555,56 +405,108 @@
       "id": 20,
       "palavra": "Chocolate",
       "tema": "Alimentos"
+    }
+  ],
+  "paises": [
+    {
+      "id": 1,
+      "palavra": "Brasil",
+      "tema": "País"
     },
     {
-      "id": 21,
-      "palavra": "Biscoito",
-      "tema": "Alimentos"
+      "id": 2,
+      "palavra": "Estados Unidos",
+      "tema": "País"
     },
     {
-      "id": 22,
-      "palavra": "Sorvete",
-      "tema": "Alimentos"
+      "id": 3,
+      "palavra": "Canadá",
+      "tema": "País"
     },
     {
-      "id": 23,
-      "palavra": "Pizza",
-      "tema": "Alimentos"
+      "id": 4,
+      "palavra": "Reino Unido",
+      "tema": "País"
     },
     {
-      "id": 24,
-      "palavra": "Hambúrguer",
-      "tema": "Alimentos"
+      "id": 5,
+      "palavra": "França",
+      "tema": "País"
     },
     {
-      "id": 25,
-      "palavra": "Salada",
-      "tema": "Alimentos"
+      "id": 6,
+      "palavra": "Alemanha",
+      "tema": "País"
     },
     {
-      "id": 26,
-      "palavra": "Sushi",
-      "tema": "Alimentos"
+      "id": 7,
+      "palavra": "Japão",
+      "tema": "País"
     },
     {
-      "id": 27,
-      "palavra": "Sanduíche",
-      "tema": "Alimentos"
+      "id": 8,
+      "palavra": "China",
+      "tema": "País"
     },
     {
-      "id": 28,
-      "palavra": "Sopa",
-      "tema": "Alimentos"
+      "id": 9,
+      "palavra": "Índia",
+      "tema": "País"
     },
     {
-      "id": 29,
-      "palavra": "Torta",
-      "tema": "Alimentos"
+      "id": 10,
+      "palavra": "Austrália",
+      "tema": "País"
     },
     {
-      "id": 30,
-      "palavra": "Café",
-      "tema": "Alimentos"
+      "id": 11,
+      "palavra": "México",
+      "tema": "País"
+    },
+    {
+      "id": 12,
+      "palavra": "Argentina",
+      "tema": "País"
+    },
+    {
+      "id": 13,
+      "palavra": "Espanha",
+      "tema": "País"
+    },
+    {
+      "id": 14,
+      "palavra": "Itália",
+      "tema": "País"
+    },
+    {
+      "id": 15,
+      "palavra": "Rússia",
+      "tema": "País"
+    },
+    {
+      "id": 16,
+      "palavra": "África do Sul",
+      "tema": "País"
+    },
+    {
+      "id": 17,
+      "palavra": "Egito",
+      "tema": "País"
+    },
+    {
+      "id": 18,
+      "palavra": "Arábia Saudita",
+      "tema": "País"
+    },
+    {
+      "id": 19,
+      "palavra": "Canadá",
+      "tema": "País"
+    },
+    {
+      "id": 20,
+      "palavra": "Coreia do Sul",
+      "tema": "País"
     }
   ]
 }
